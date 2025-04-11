@@ -30,7 +30,7 @@ Users often seek quick, intelligent answers to complex or trending topics but la
 - **Educational & Practical Use:** Serves as both a learning tool and a productivity booster.
 
 # Key Features
--**AI-Powered Responses:** Leverages GPT-4o for generating intelligent answers to queries.
+- **AI-Powered Responses:** Leverages GPT-4o for generating intelligent answers to queries.
 
 - **Simulated Retrieval Engine:** Mimics RAG-like functionality to demonstrate augmented querying.
 
